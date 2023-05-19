@@ -14,6 +14,14 @@ Handle all the aspects of push notifications for your app, including remote and 
 
 _For information regarding proper integration with [react-native-navigation](https://github.com/wix/react-native-navigation), follow [this wiki](https://github.com/wix/react-native-notifications/wiki/Android:-working-with-RNN)._
 
+# Development
+
+Make needed changes
+- npm run start
+- npm run build 
+
+New build will appear in `/lib/dist`
+
 # Requirements
 
 Apps using React Native Notifications may target iOS 10 and Android 5.0 (API 21). You may use Windows, macOS or Linux as your development operating system.
